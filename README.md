@@ -1,6 +1,7 @@
 [![Header](https://github.com/Animatea/Animatea/blob/main/assets/DenyS.gif)]()
 
-About
+### About me
+![Animatea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animatea&show_icons=true&theme=tokyonight)
 
 Latest posts
 
@@ -10,5 +11,4 @@ Latest posts
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2f3136?style=for-the-badge&logo=MongoDB&logoColor=green)
 
 ### Follow me
-![MyDiscordServer](https://img.shields.io/discord/744099317836677161?label=Our%20discord%20server&logo=discord)
-![InviteToServer](https://img.shields.io/endpoint?url=https://discord.com/invite/KKUFRZCt4f?style=flat&logo=discord)
+![https://discord.com/invite/KKUFRZCt4f](https://img.shields.io/discord/744099317836677161?color=009f1f&label=Our%20discord%20server&logo=Discord&style=for-the-badge)
