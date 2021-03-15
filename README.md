@@ -4,6 +4,8 @@ About
 
 Latest posts
 
-Languages and tools
+### Languages and tools
+![Python](https://img.shields.io/badge/-Python-2f3136?style=for-the-badge&logo=Python)
+![AtomEditor](https://img.shields.io/badge/-Python-2f3136?style=for-the-badge&logo=Python&logoColor=)
 
 Follow me
