@@ -18,4 +18,5 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [My first post](https://dev.to/animatea/my-first-post-1jn0)
 <!-- BLOG-POST-LIST:END -->
