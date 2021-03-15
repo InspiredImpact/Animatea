@@ -9,4 +9,5 @@ Latest posts
 ![Python](https://img.shields.io/badge/-Python-2f3136?style=for-the-badge&logo=Python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2f3136?style=for-the-badge&logo=MongoDB&logoColor=green)
 
-Follow me
+### Follow me
+![MyDiscordServer](https://img.shields.io/discord/744099317836677161?label=Our%20discord%20server&logo=discord&style=for-the-badge)
