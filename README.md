@@ -1,4 +1,4 @@
-[![Header](https://github.com/Animatea/Animatea/blob/main/assets/DenySgif.gif)]()
+[![Header](https://github.com/Animatea/Animatea/blob/main/assets/DenyS.gif)]()
 
 About
 
