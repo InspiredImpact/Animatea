@@ -5,7 +5,8 @@ About
 Latest posts
 
 ### Languages and tools
+![AtomEditor](https://img.shields.io/badge/-Atom-2f3136?style=for-the-badge&logo=Atom&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-2f3136?style=for-the-badge&logo=Python)
-![AtomEditor](https://img.shields.io/badge/-Python-2f3136?style=for-the-badge&logo=Python&logoColor=)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2f3136?style=for-the-badge&logo=MongoDB&logoColor=green)
 
 Follow me
