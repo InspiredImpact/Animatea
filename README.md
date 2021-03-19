@@ -1,15 +1,14 @@
 [![Header](https://github.com/Animatea/Animatea/blob/main/assets/DenyS.gif)]()
 
+<div align="center">
+
 ### **About me**
 - **Learning python**
 - **Develop bots for discord**
 
-<div align="center">
-
 ![Animatea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animatea&show_icons=true&theme=tokyonight)
 [![DenyS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denyss&theme=tokyonight)](https://github.com/Animatea/github-readme-stats)
 
-</div>
 
 ### Languages and tools
 ![AtomEditor](https://img.shields.io/badge/-Atom-2f3136?style=for-the-badge&logo=Atom&logoColor=white)
@@ -20,6 +19,7 @@
 [![InviteToServer](https://img.shields.io/badge/-invite_to_server-2f3136?style=for-the-badge&logo=Discord)](https://discord.com/invite/KKUFRZCt4f)
 [![InviteToServer](https://img.shields.io/badge/-discord_bio-2f3136?style=for-the-badge&logo=icon)](https://discord.bio/p/1117)
 
+</div>
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
