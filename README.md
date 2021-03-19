@@ -16,7 +16,7 @@
 
 ### Follow me
 [![InviteToServer](https://img.shields.io/badge/-invite_to_server-2f3136?style=for-the-badge&logo=Discord)](https://discord.com/invite/KKUFRZCt4f)
-[![InviteToServer](https://img.shields.io/badge/-discord_bio-2f3136?style=for-the-badge&logo=icon)](https://discord.bio/p/1117)
+[![MyDiscordBio](https://img.shields.io/badge/-discord_bio-2f3136?style=for-the-badge&logo=icon)](https://discord.bio/p/1117)
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
