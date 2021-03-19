@@ -1,4 +1,5 @@
 [![Header](https://github.com/Animatea/Animatea/blob/main/assets/DenyS.gif)]()
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Animatea alt=Animatea /> </p>
 
 ### **About me**
 - **Learning python**
