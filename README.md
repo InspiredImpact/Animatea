@@ -6,7 +6,7 @@
 - **Develop bots for discord**
 
 ![Animatea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animatea&show_icons=true&theme=tokyonight)
-[![DenyS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denyss&theme=tokyonight)](https://github.com/Animatea/github-readme-stats)
+[![DenyS' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denyss&theme=tokyonight)](https://github.com/Animatea/github-readme-stats)
 
 
 ### Languages and tools
