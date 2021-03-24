@@ -5,9 +5,8 @@
 - **Learning python**
 - **Develop bots for discord**
 
-![Animatea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animatea&show_icons=true&theme=tokyonight)
-[![DenyS' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denyss&theme=tokyonight)](https://github.com/Animatea/github-readme-stats)
-
+![DenyS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animatea&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![DenyS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denyss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Animatea)
 
 ### Languages and tools
 ![AtomEditor](https://img.shields.io/badge/-Atom-2f3136?style=for-the-badge&logo=Atom&logoColor=white)
