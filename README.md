@@ -9,7 +9,7 @@
 [![DenyS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denyss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Animatea)
 
 ### Languages and tools
-![AtomEditor](https://img.shields.io/badge/-Atom-2f3136?style=for-the-badge&logo=Atom&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-Atom-2f3136?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-2f3136?style=for-the-badge&logo=Python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2f3136?style=for-the-badge&logo=MongoDB&logoColor=green)
 
