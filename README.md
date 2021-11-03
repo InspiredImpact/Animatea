@@ -17,6 +17,8 @@
 [![InviteToServer](https://img.shields.io/badge/-invite_to_server-2f3136?style=for-the-badge&logo=Discord)](https://discord.com/invite/KKUFRZCt4f)
 [![MyDiscordBio](https://img.shields.io/badge/-discord_bio-2f3136?style=for-the-badge&logo=icon)](https://discord.bio/p/1117)
 
+![Metrics](https://github.com/Animatea/Animatea/blob/main/github-metrics.svg)
+
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
 - [My first post](https://dev.to/animatea/my-first-post-1jn0)
