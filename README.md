@@ -3,10 +3,8 @@
 
 ### **About me**
 - **Learning python**
-- **Develop bots for discord**
 
 ![DenyS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animatea&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![DenyS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=denyss&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Animatea)
 
 ### Languages and tools
 ![PyCharm](https://img.shields.io/badge/-PyCharm-2f3136?style=for-the-badge&logo=PyCharm&logoColor=white)
